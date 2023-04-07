@@ -199,29 +199,3 @@ radioatividade(radioativo,N) :- elemento(X,_,84,_),X=N.
 radioatividade(radioativo,N) :- elemento(X,_,85,_),X=N.
 radioatividade(radioativo,N) :- elemento(X,_,86,_),X=N.
 radioatividade(radioativo,N) :- elemento(X,_,Y,_),Y>=89,X=N.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
